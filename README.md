@@ -5,8 +5,13 @@ Ideas for creating an awesome **Python** presentation based on [Instructor](http
 ## Core elements
 
 To become a **Master Instructor** I must become a black belt in the arts of:
+
 - Instructor
 - Pydantic
 - OpenAI's client
 
 Optionally, I can also use **Rye** for package management!
+
+## Experiments
+
+1. The first experiment collects enoguh data about a user to create a profile.
